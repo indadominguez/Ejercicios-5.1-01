@@ -5,6 +5,6 @@ El valor de PI lo conseguimos con Math.PI
 
 Objetivos:
 
-Practicar la creación de clases abstractas y métodos abstractos.
-Entender cómo las subclases proporcionan implementaciones concretas de métodos abstractos.
-Familiarizarse con los conceptos básicos de geometría y cómo se pueden aplicar en la programación orientada a objetos.
+- Practicar la creación de clases abstractas y métodos abstractos.
+- Entender cómo las subclases proporcionan implementaciones concretas de métodos abstractos.
+- Familiarizarse con los conceptos básicos de geometría y cómo se pueden aplicar en la programación orientada a objetos.
